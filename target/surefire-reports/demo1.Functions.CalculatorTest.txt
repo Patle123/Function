@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: demo1.Functions.AppTest
+Test set: demo1.Functions.CalculatorTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.047 sec
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
