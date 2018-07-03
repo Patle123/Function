@@ -27,7 +27,7 @@ public class CalculatorTest {
 
 	 int x = 20;
 	 int y = 20;
-	 assertEquals(40, cal.add(x, y))
+	 assertEquals(40, cal.add(x, y));
 
 	 }
 
