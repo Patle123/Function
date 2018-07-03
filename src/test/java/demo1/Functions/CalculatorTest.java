@@ -18,7 +18,7 @@ public class CalculatorTest {
 	 */
 	 public void init() {
 
-	 cal = new Calculator()
+	 cal = new Calculator();
 
 	 }
 
