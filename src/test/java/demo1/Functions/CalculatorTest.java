@@ -26,8 +26,8 @@ public class CalculatorTest {
 	 public void testAdd() {
 
 	 int x = 20;
-	 int y = 20
-	 assertEquals(40, cal.add(x, y))
+	 int y = 20;
+	 assertEquals(40, cal.add(x, y));
 
 	 }
 
