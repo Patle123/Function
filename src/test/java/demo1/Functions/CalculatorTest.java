@@ -35,7 +35,7 @@ public class CalculatorTest {
 	 public void testSub() {
 	 int x = 20;
 	 int y = 10;
-	 assertEquals(10, cal.sub(x, y));
+	 assertEquals(20, cal.sub(x, y));
 	 }
 	
 }
